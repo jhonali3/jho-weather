@@ -1,0 +1,45 @@
+body {
+	background-image: url("image/b.png");
+	background-size: cover; 
+	background-repeat: no-repeat;
+	background-attachment: fixed; 
+	background-position: center;
+	margin: 0;
+	padding: 0;
+	font-family: Arial, sans-serif; 
+}
+
+
+.content{
+	background: rgba(255, 255, 255, 0.7);
+	border-radius: 15px;  
+	text-align: left; 
+	padding: 30px;
+	margin: 60px auto;  
+	max-width: 1100px; 
+	width: 100%;
+	min-width: 300px;  
+}
+
+.wea{
+	text-align: right;
+	margin: 0;
+	font-size: 5vw;
+}
+
+.ce{
+	font-weight: bold;
+	margin-left: 5vw;
+}
+.c{
+	margin-left: 5vw;
+}
+.hum{
+	margin: 100px;
+	text-align: center;
+}
+footer{
+	text-align: center;
+	font-size: 15px;
+	color: white;
+}
